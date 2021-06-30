@@ -14,6 +14,6 @@ requested and then run the program with `python3 main.py` on your command line.
 # Modules used
 
 ````
-selenuim webdriver
+selenium webdriver
 time
 ````
